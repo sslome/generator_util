@@ -1,5 +1,5 @@
 """
-Section 4  Test Code
+Test Code
 
 In testing the hypotheses of the main theorem we utilized the following code. In the initial attempt we investigated the ZIP group. (That is, Z mod p adjoin i where -1 is a quadratic non residue or ZIP = Fp^2 with p congruent to 3 mod 4). Later the result is generalized for prime p and integer n, a quadratic non residue.
 The code can be easily expanded to general p and n.
